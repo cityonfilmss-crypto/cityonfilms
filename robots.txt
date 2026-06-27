@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Specify the path to your sitemap
-Sitemap: https://cityonfilm.netlify.app/sitemap.xml
+Sitemap: https://cityonfilms.netlify.app/sitemap.xml
