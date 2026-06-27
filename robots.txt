@@ -1,0 +1,6 @@
+# Allow all search engines to crawl all files
+User-agent: *
+Disallow:
+
+# Specify the path to your sitemap
+Sitemap: https://cityonfilm.netlify.app/sitemap.xml

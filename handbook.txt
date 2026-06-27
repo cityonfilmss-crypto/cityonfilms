@@ -1,0 +1,38 @@
+CITY ON FILMS : WEBSITE HANDBOOK
+================================
+
+Welcome to your new website code! This handbook is written simply, so anyone can understand how the website is built and how to use it. 
+
+Think of building a website like building a house. We use three different tools to make it work.
+
+PART 1: THE THREE BUILDING BLOCKS
+---------------------------------
+1. HTML (index.html) is the structure of the house.
+It tells the computer where the walls and doors are. In our code, HTML places the text, creates the boxes for the videos, and sets up the buttons.
+
+2. CSS (style.css) is the paint and decoration.
+It makes the structure look beautiful. CSS is responsible for the deep black colors, the glowing white text, the sharp glass borders, and the spacing that makes everything look premium. It also changes the layout so it looks perfect on a mobile phone.
+
+3. JavaScript (script.js) is the electricity and moving parts.
+It makes things interactive. When the text types itself on the screen, when the images fade away as you scroll down, and when the videos start playing automatically, that is JavaScript doing the work.
+
+PART 2: HOW TO ADD YOUR OWN FILES
+---------------------------------
+To see the website perfectly on your computer, you need to add your images and videos into the exact same folder where these code files are saved.
+
+1. The Main Image:
+Take your premium background picture and rename it to "hero.png". Put it in the folder. The code will automatically find it and put it behind the typing text.
+
+2. The Videos:
+Take your three vertical videos. Name them exactly "1.mp4", "2.mp4", and "3.mp4". Put them in the folder. The code has a special feature called "object-fit: cover". This means even if your videos are not perfectly 9 by 16 ratio, the code will automatically crop and fit them inside the sharp glass boxes without stretching them.
+
+3. The Owner Image:
+Open the "index.html" file. Scroll down to the "About Section". You will see a text that says "[Add Owner Image Here]". You can delete that text and add an image tag pointing to your picture.
+
+PART 3: SPECIAL FEATURES WE ADDED
+---------------------------------
+* Cinematic Preloader: When someone opens your site, they will see a black screen with a single white line drawing itself. This builds excitement before the site loads.
+* Automatic Mobile Adjustment: On a computer monitor, the videos stand side by side like pillars. But on a mobile phone, they automatically stack on top of each other. Instead of hovering a mouse, mobile users just tap a video to expand it and play it.
+* Glassmorphism: The boxes have sharp corners and a slight blur effect behind them. When you hover over them, the white border lights up brightly, just like a camera flash or a luxury car dashboard.
+
+Enjoy your new cinematic website!
